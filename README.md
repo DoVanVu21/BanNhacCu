@@ -29,44 +29,42 @@ Giao diện thông tin tài khoản
 
 # Các tính năng
 # 🔐 Xác thực & Bảo mật
-Xác thực mã thông báo JWT với lưu trữ cookie an toàn
-Tích hợp OAuth2 với Google Sign-In
-Quản lý mật khẩu (quên/đặt lại mật khẩu)
-Ủy quyền dựa trên vai trò (Khách hàng, Người bán, Quản trị viên)
+- Xác thực mã thông báo JWT với lưu trữ cookie an toàn
+- Tích hợp OAuth2 với Google Sign-In
+- Quản lý mật khẩu (quên/đặt lại mật khẩu)
+- Ủy quyền dựa trên vai trò (Khách hàng, Người bán, Quản trị viên)
 
 # 🛍️ Các tính năng cốt lõi của thương mại điện tử
-Danh mục sản phẩm với chức năng lọc và tìm kiếm nâng cao
-Giỏ hàng với các phiên liên tục
-Quản lý đơn hàng với theo dõi trạng thái
-Tích hợp thanh toán với VNPay
-Quản lý hàng tồn kho cho người bán
+- Danh mục sản phẩm với chức năng lọc và tìm kiếm nâng cao
+- Giỏ hàng với các phiên liên tục
+- Quản lý đơn hàng với theo dõi trạng thái
+- Quản lý hàng tồn kho cho người bán
 
 # 🚀 Tính năng nâng cao
-Hệ thống trò chuyện thời gian thực với WebSocket
-Thông báo đẩy để cập nhật đơn hàng
-Khuyến mãi chớp nhoáng với bộ đếm ngược
-Chức năng danh sách mong muốn/yêu thích
-Đánh giá & Xếp hạng Sản phẩm
-Tích hợp vận chuyển với API GHN
+- Hệ thống trò chuyện thời gian thực với WebSocket
+- Thông báo đẩy để cập nhật đơn hàng
+- Khuyến mãi chớp nhoáng với bộ đếm ngược
+- Chức năng danh sách mong muốn/yêu thích
+- Đánh giá & Xếp hạng Sản phẩm
 
 # 📱 Trải nghiệm người dùng
-Thiết kế đáp ứng cho mọi thiết bị
-Tìm kiếm nâng cao với ElasticSearch
-Khuyến nghị sản phẩm
-Lịch sử đơn hàng và theo dõi
-Quản lý hồ sơ người dùng
+- Thiết kế đáp ứng cho mọi thiết bị
+- Tìm kiếm nâng cao với ElasticSearch
+- Khuyến nghị sản phẩm
+- Lịch sử đơn hàng và theo dõi
+- Quản lý hồ sơ người dùng
 
 # 🎮 Cách sử dụng
 # Dành cho khách hàng
-Duyệt sản phẩm : Khám phá danh mục nhạc cụ với tính năng lọc nâng cao
-Thêm vào giỏ hàng : Chọn sản phẩm và thêm vào giỏ hàng
-Thanh toán an toàn : Hoàn tất giao dịch mua hàng
+- Duyệt sản phẩm : Khám phá danh mục nhạc cụ với tính năng lọc nâng cao
+- Thêm vào giỏ hàng : Chọn sản phẩm và thêm vào giỏ hàng
+- Thanh toán an toàn : Hoàn tất giao dịch mua hàng
 # Dành cho người bán
-Quản lý sản phẩm : Thêm, chỉnh sửa và quản lý hàng tồn kho sản phẩm
-Xử lý đơn hàng : Xử lý đơn hàng của khách hàng và cập nhật
-Bảng điều khiển phân tích : Xem số liệu bán hàng và hiệu suất
-Theo dõi hàng tồn kho : Theo dõi mức tồn kho và cảnh báo
+- Quản lý sản phẩm : Thêm, chỉnh sửa và quản lý hàng tồn kho sản phẩm
+- Xử lý đơn hàng : Xử lý đơn hàng của khách hàng và cập nhật
+- Bảng điều khiển phân tích : Xem số liệu bán hàng và hiệu suất
+- Theo dõi hàng tồn kho : Theo dõi mức tồn kho và cảnh báo
 # Dành cho Quản trị viên
-Quản lý người dùng : Quản lý tài khoản khách hàng và người bán
-Giám sát hệ thống : Giám sát hiệu suất nền tảng
-Quản lý nội dung : Quản lý danh mục và nội dung trang web
+- Quản lý người dùng : Quản lý tài khoản khách hàng và người bán
+- Giám sát hệ thống : Giám sát hiệu suất nền tảng
+- Quản lý nội dung : Quản lý danh mục và nội dung trang web
