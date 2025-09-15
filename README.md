@@ -1,5 +1,18 @@
 # BanNhacCu
 # Website bán nhạc cụ
+# Mục tiêu
+- Giao diện website: Đây là cấu trúc toàn bộ website cho hệ thống của bạn, xây dựng giao diện đặt trưng giúp cho khách hàng có thể nhận diện ngày thương hiệu của mình ấn vào website.
+- Trang chủ: là trang giới thiệu sơ lược về các sản phẩm của cửa hàng và biết được những thông tin cơ bản về cửa hàng nhạc cụ, một số hình ảnh nhạc cụ, flash quảng cáo…
+- Giới thiệu: các thông tin giới thiệu tổng quan về cửa hàng nhạc cụ.
+- Sản phẩm: tại đây người dùng có thể biết về thông tin (tên nhạc cụ, hình ảnh, thương hiệu, giá thành…) của từng loại nhạc cụ. Cũng với tính năng này người dùng có thể biết được những sản phẩm mới, ưu đãi hay hình thức để tiếp cận đặt hàng online.
+- Chi tiết sản phẩm: đây là trang khách hàng nhấn vào từng sản phẩm để xem chi tiết.
+- Giỏ hàng: là chức năng quan trọng đối với trang web, trong quá trình tìm kiếm sản phẩm trên website, nếu khách hàng hài lòng hay yêu thích với loại nhạc cụ nào thì họ có thể thêm vào trong giỏ hàng để chuyển đến mục thanh toán một cách dễ dàng.
+- Thanh tìm kiếm: khách hàng có thể tìm kiếm những thông tin của sản phẩm một cách nhanh chóng và chính xác.
+- Liên hệ: là chức năng không thể thiếu để khách hàng, đối tác liên lạc và tìm đến mua sản phẩm tại của hàng. Thường chức năng liên hệ cần có đầy đủ các thông tin như: tên cửa hàng, địa chỉ, số điện thoại, email…
+- Bài viết: cung cấp nhiều thông tin thú vị cho khách hàng về cửa hàng nhạc cụ như ngày sale, ưu đãi,…
+- Đăng nhập: người dùng đăng nhập tài khoản để đặt mua sản phẩm của trang.
+- Đăng ký: người dùng đăng kí để trở thành khách hàng của cửa hàng.
+- Thanh toán: người dùng có thể thanh toán nhanh chóng qua nhiều hình thức khác nhau như chuyển khoản,…
 
 # Trang chủ
 <img width="1918" height="973" alt="image" src="https://github.com/user-attachments/assets/ecded28a-7150-4e17-9f3d-825cfba3f52f" />
@@ -29,8 +42,6 @@ Giao diện thông tin tài khoản
 
 # Các tính năng
 # 🔐 Xác thực & Bảo mật
-- Xác thực mã thông báo JWT với lưu trữ cookie an toàn
-- Tích hợp OAuth2 với Google Sign-In
 - Quản lý mật khẩu (quên/đặt lại mật khẩu)
 - Ủy quyền dựa trên vai trò (Khách hàng, Người bán, Quản trị viên)
 
