@@ -29,7 +29,7 @@
 # Giao diện đăng kí
 <img width="1899" height="885" alt="image" src="https://github.com/user-attachments/assets/4e658336-f909-4734-93c3-ec6e447baa23" />
 
-Giao diện thông tin tài khoản
+# Giao diện thông tin tài khoản
 <img width="1884" height="906" alt="image" src="https://github.com/user-attachments/assets/322f9b8e-0a75-48cc-ab48-42dd05f5fa6c" />
 
 # Giao diện Giỏ hàng
@@ -60,8 +60,7 @@ Giao diện thông tin tài khoản
 
 # 📱 Trải nghiệm người dùng
 - Thiết kế đáp ứng cho mọi thiết bị
-- Tìm kiếm nâng cao với ElasticSearch
-- Khuyến nghị sản phẩm
+- Khuyến nghị sản phẩm nổi bật
 - Lịch sử đơn hàng và theo dõi
 - Quản lý hồ sơ người dùng
 
